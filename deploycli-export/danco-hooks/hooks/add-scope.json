@@ -1,0 +1,8 @@
+{
+  "name": "add-scope",
+  "script": "./add-scope.js",
+  "dependencies": {},
+  "enabled": true,
+  "triggerId": "credentials-exchange",
+  "secrets": {}
+}

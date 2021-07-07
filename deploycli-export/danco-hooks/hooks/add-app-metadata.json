@@ -1,0 +1,8 @@
+{
+  "name": "add-app-metadata",
+  "script": "./add-app-metadata.js",
+  "dependencies": {},
+  "enabled": false,
+  "triggerId": "pre-user-registration",
+  "secrets": {}
+}

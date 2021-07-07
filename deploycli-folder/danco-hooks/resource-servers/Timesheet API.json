@@ -1,0 +1,27 @@
+{
+  "name": "Timesheet API",
+  "identifier": "https://api.examples.com/timesheets",
+  "allow_offline_access": false,
+  "skip_consent_for_verifiable_first_party_clients": true,
+  "token_lifetime": 86400,
+  "token_lifetime_for_web": 7200,
+  "signing_alg": "RS256",
+  "scopes": [
+    {
+      "value": "read:timesheets",
+      "description": "Read timesheets"
+    },
+    {
+      "value": "delete:timesheets",
+      "description": "Delete timesheets"
+    },
+    {
+      "value": "create:timesheets",
+      "description": "Create a timesheet"
+    },
+    {
+      "value": "approve:timesheets",
+      "description": "Approve a timesheet"
+    }
+  ]
+}

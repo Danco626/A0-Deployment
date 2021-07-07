@@ -1,0 +1,7 @@
+{
+  "client_id": "Node App",
+  "audience": "https://api.examples.com/timesheets",
+  "scope": [
+    "read:timesheets"
+  ]
+}

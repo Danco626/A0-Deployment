@@ -1,0 +1,8 @@
+{
+  "client_id": "auth0-logs-to-loggly",
+  "audience": "https://danco-hooks.auth0.com/api/v2/",
+  "scope": [
+    "read:logs",
+    "delete:clients"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "user-email-validation",
+  "script": "./user-email-validation.js",
+  "dependencies": {},
+  "enabled": false,
+  "triggerId": "pre-user-registration",
+  "secrets": {}
+}
